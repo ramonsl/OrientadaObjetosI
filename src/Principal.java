@@ -25,29 +25,10 @@ public class Principal {
             //atribuiçao de valores ao obj.
 
 
+        l1.mostrar();
+        l2.mostrar();
+        l3.mostrar();
 
-
-        System.out.println("Nome: "+l1.nome);
-        System.out.println("Valor: "+l1.valor);
-        System.out.println("descricao: "+l1.descricao);
-        System.out.println("isbn: "+l1.isbn);
-
-
-
-
-        System.out.println();
-        //mostrar os valore
-        System.out.println("Nome: "+l2.nome);
-        System.out.println("Valor: "+l2.valor);
-        System.out.println("descricao: "+l2.descricao);
-        System.out.println("isbn: "+l2.isbn);
-        //mostrar os valore
-        System.out.println();
-        System.out.println("Nome: "+l3.nome);
-        System.out.println("Valor: "+l3.valor);
-        System.out.println("descricao: "+l3.descricao);
-        System.out.println("isbn: "+l3.isbn);
-        //mostrar os valore
 
 
     }
